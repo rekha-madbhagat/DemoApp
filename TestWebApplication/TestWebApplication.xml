@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestWebApplication</name>
+    </assembly>
+    <members>
+        <member name="T:TestWebApplication.Controllers.EmployeeController">
+            <summary>
+            Employee Contraoller
+            </summary>
+        </member>
+        <member name="M:TestWebApplication.Controllers.EmployeeController.GetEmployee">
+            <summary>
+            EmployeeController Api Get method
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
